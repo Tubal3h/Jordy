@@ -262,6 +262,8 @@ html,body{
     
   
   }
+  
+  .swiper-slide img {object-position: 0px 0px; }
 
 
 
