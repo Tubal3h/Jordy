@@ -78,6 +78,10 @@ function calcTime() {
       // $("#CurrentTime").text(`Year ${year} Month ${month} Day ${days} Time ${hours}:${minutes}:${seconds} `)
       $("#CurrentTime").html(`
         <div id="c-count"  class="row m-0     d-flex align-items-center justify-content-center">
+          <div id="" class="d-flex">
+            <div class="    Masc timer-font ">Tiempo </div>
+            <div class=" Masc timer-font">Juntos</div>
+          </div>
           <div  id="year" class="    Masc timer-font">Year ${year}</div>
           <div  id="Month" class="    Masc timer-font">Month ${month}</div>
           <div  id="day" class="    Masc timer-font">Day ${days}</div>
