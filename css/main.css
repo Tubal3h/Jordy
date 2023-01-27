@@ -274,5 +274,6 @@ html,body{
     width: 100px;
   }  
   #C_kate h5{font-size: 3vw;}
+  .cover-container h2{font-size: 4vw;margin-top: 15px;}
 }
 
